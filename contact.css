@@ -42,7 +42,7 @@ li a{
     display: inline-block;
     text-align: center;
     color: white; 
-    transition: all 0.5s;
+    transition: all 1.5s;
 }li a:hover{
     color: rgb(8, 185, 244);
 }.border{
